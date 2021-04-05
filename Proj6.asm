@@ -4,7 +4,7 @@
 ; Last Modified:	2021-03-16
 ; Course/section:	CS271 Section 400
 ; Project Number:	6
-; Due Date:				3/14/21
+; Due Date:		3/14/21
 ; Description:		Program will implement and test two macros for string processing 
 ;			and two procedures for signed integers which use string primitive
 ;			instructions. Test program will get 10 valid integers from user,
